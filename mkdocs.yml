@@ -66,8 +66,8 @@ extra:
   social:
     - icon: fontawesome/solid/microphone
       link: https://www.circuitpythonshow.com/@thebootloader/feed.xml
-    - icon: simple/RSS
-      link: https://www.circuitpythonshow.com/@thebootloader/feed.xml
+    #    - icon: simple/RSS
+    #      link: https://www.circuitpythonshow.com/@thebootloader/feed.xml
     - icon: simple/youtube
       link: https://youtube.com/@thebootloader
     - icon: simple/bluesky
