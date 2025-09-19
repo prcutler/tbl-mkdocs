@@ -219,3 +219,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 .DS_Store
+/overrides/.DS_Store
+/overrides/assets/.DS_Store
+/overrides/assets/images/.DS_Store
