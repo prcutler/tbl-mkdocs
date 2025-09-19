@@ -22,6 +22,9 @@ theme:
       toggle:
         icon: material/toggle-switch-off
         name: Switch to system preference
+  favicon:
+    icon: assets/images/favicon.png
+
   features:
     - navigation.tabs
     - navigation.instant
