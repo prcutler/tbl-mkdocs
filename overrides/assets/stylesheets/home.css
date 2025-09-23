@@ -193,6 +193,12 @@ h2 {
     }
 }
 
+.md-container {
+    background: url("assets/images/bootloader-background.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
 .hero-text {
     align-content: center;
 }
